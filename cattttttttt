@@ -1,0 +1,4 @@
+      selector = null; 
+    else if (selector.trim().equalsIgnoreCase("null")) 
+      selector = null; 
+ 
