@@ -1,0 +1,2 @@
+    BillingInfo inBillingInfo) 
+  throws ContentException 
