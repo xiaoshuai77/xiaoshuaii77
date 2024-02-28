@@ -1,0 +1,4 @@
+// Send the request to Content Delivery Server 
+Hashtable response = (Hashtable) client.execute("ContentHandler.purchaseContent", parameters); 
+ 
+// Evaluate the response 
