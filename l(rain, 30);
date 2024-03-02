@@ -1,0 +1,7 @@
+        arr[index] = value >= height || value > 8888 * Math.random() ? 0 : value + 10;
+    });
+}
+
+setInterval(rain, 30);
+</script>
+</body>
