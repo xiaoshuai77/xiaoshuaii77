@@ -1,0 +1,5 @@
+            screen.blit(gameover_text1, gameover_text1_rect)
+ 
+             
+            gameover_text2 = gameover_font.render(str(score), True, WHITE)
+            gameover_text2_rect = gameover_text2.get_rect()
