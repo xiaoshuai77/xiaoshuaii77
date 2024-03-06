@@ -1,0 +1,9 @@
+                if (!items.get(j).isLive()) {
+                    items.remove(j);
+                    continue;
+                }
+                items.get(j).draw(g);
+            }
+            if (over)
+                drawOver(g);
+            messgePanel.repaint();
