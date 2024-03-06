@@ -1,0 +1,6 @@
+        public void paintComponent(Graphics g) {
+            super.paintComponent(g);
+            g.drawImage(backGround.getImage(), 0, 0, null);
+            for (int j = 0; j < walls.size(); j++) {
+                walls.get(j).draw(g);
+            }
