@@ -1,0 +1,4 @@
+     * @version 1.82 18 Mar 1999
+     * @author Firstname Lastname
+     */
+    public class Blah extends SomeClass {
