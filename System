@@ -1,0 +1,4 @@
+//            fis.skip(3);
+//            System.out.println(fis.read());
+        } catch (IOException e) {
+            e.printStackTrace();
